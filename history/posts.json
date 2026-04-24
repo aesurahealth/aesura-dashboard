@@ -16,8 +16,8 @@
       "engagement_rate": 0.0091
     },
     "velocity": {
-      "views_per_day": 165.28,
-      "climbing_score": 5.8
+      "views_per_day": 139.94,
+      "climbing_score": 3.09
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -39,8 +39,8 @@
       "engagement_rate": 0.0151
     },
     "velocity": {
-      "views_per_day": 181.51,
-      "climbing_score": 6.37
+      "views_per_day": 159.94,
+      "climbing_score": 3.53
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -62,8 +62,8 @@
       "engagement_rate": 0.0053
     },
     "velocity": {
-      "views_per_day": 20.9,
-      "climbing_score": 0.73
+      "views_per_day": 18.67,
+      "climbing_score": 0.41
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -85,8 +85,8 @@
       "engagement_rate": 0.0
     },
     "velocity": {
-      "views_per_day": 16.45,
-      "climbing_score": 0.58
+      "views_per_day": 14.83,
+      "climbing_score": 0.33
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -108,11 +108,11 @@
       "engagement_rate": 0.0444
     },
     "velocity": {
-      "views_per_day": 349.15,
-      "climbing_score": 12.26
+      "views_per_day": 322.04,
+      "climbing_score": 7.1
     },
     "is_outlier": true,
-    "outlier_ratio": 7.2
+    "outlier_ratio": 5.4
   },
   "youtube:CYhZ0bTCxcQ": {
     "platform": "youtube",
@@ -131,8 +131,8 @@
       "engagement_rate": 0.012
     },
     "velocity": {
-      "views_per_day": 73.32,
-      "climbing_score": 2.57
+      "views_per_day": 68.93,
+      "climbing_score": 1.52
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -154,8 +154,8 @@
       "engagement_rate": 0.0132
     },
     "velocity": {
-      "views_per_day": 44.21,
-      "climbing_score": 1.55
+      "views_per_day": 41.8,
+      "climbing_score": 0.92
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -177,8 +177,8 @@
       "engagement_rate": 0.0334
     },
     "velocity": {
-      "views_per_day": 28.48,
-      "climbing_score": 1.0
+      "views_per_day": 27.15,
+      "climbing_score": 0.6
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -200,8 +200,8 @@
       "engagement_rate": 0.0
     },
     "velocity": {
-      "views_per_day": 12.3,
-      "climbing_score": 0.43
+      "views_per_day": 11.74,
+      "climbing_score": 0.26
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -223,8 +223,8 @@
       "engagement_rate": 0.0362
     },
     "velocity": {
-      "views_per_day": 47.41,
-      "climbing_score": 1.66
+      "views_per_day": 45.35,
+      "climbing_score": 1.0
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -246,8 +246,8 @@
       "engagement_rate": 0.0
     },
     "velocity": {
-      "views_per_day": 0.96,
-      "climbing_score": 0.03
+      "views_per_day": 0.92,
+      "climbing_score": 0.02
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -261,7 +261,7 @@
     "published_at": "2026-03-26T20:02:38Z",
     "content_type": "youtube_short",
     "metrics": {
-      "views": 1321,
+      "views": 1322,
       "likes": 25,
       "comments": 1,
       "saves": null,
@@ -269,8 +269,8 @@
       "engagement_rate": 0.0197
     },
     "velocity": {
-      "views_per_day": 47.24,
-      "climbing_score": 1.66
+      "views_per_day": 45.51,
+      "climbing_score": 1.0
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -916,30 +916,30 @@
     "id": "17876406015569325",
     "title": "Peptides are becoming increasingly popular - but how they\u2019re being accessed is the real concern.\n\nA growing number of people are purchasing ",
     "url": "https://www.instagram.com/reel/DXPstGVElYG/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/670898817_17865649260655438_8235762568229144601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ougrZl9BDecQ7kNvwHlndP0&_nc_oc=AdrENqAh3V-yCGOxd0jrnnxnVWQe5r7pDwCHB6AmzzVoSybf5k2Q7euQ564uK9MOhJxfftxQuJRH7TBtqzdEiUj1&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQF4bpSeMRFAcR8RIQ8VMjYurieWeQVdkA1Jbt2Xh5iU6_XF6bPH1nko3UkFof5PaUEVRtV1z84muQ&oh=00_Af08zM3ebZ5594qh8oqs2Grjut6Rr8Xw_U1Uo2MtlbjFmg&oe=69F0388E",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/670898817_17865649260655438_8235762568229144601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ougrZl9BDecQ7kNvwE_HmiE&_nc_oc=AdonvE-S04Sw7wo7mupZwgk5wSK18JJauE9fCaQDOeDSwOy_xSeCNJ1i0R9su87AjdY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQFHmnsbCrSDSKO714FalR_-qLi7HkYQPESaqCk3jtfLlhn86l3PFaVtj1ExjJhfTSldkoxTvTHAnQ&oh=00_Af1-6V49_izH8Z7pAngYg638-lLKIGKBSbfB9_qLrCsLBA&oe=69F1C24E",
     "published_at": "2026-04-17T19:57:31Z",
     "content_type": "ig_reel",
     "metrics": {
-      "views": 831,
+      "views": 833,
       "likes": 13,
       "comments": 0,
       "saves": 1,
       "shares": 2,
-      "engagement_rate": 0.0193
+      "engagement_rate": 0.0192
     },
     "velocity": {
-      "views_per_day": 139.32,
-      "climbing_score": 9.64
+      "views_per_day": 118.15,
+      "climbing_score": 7.92
     },
     "is_outlier": true,
-    "outlier_ratio": 4.1
+    "outlier_ratio": 4.3
   },
   "instagram:18134556301549886": {
     "platform": "instagram",
     "id": "18134556301549886",
     "title": "Aging isn\u2019t just about time - it\u2019s about energy.\n\nAt the center of that process are your mitochondria.\n\nThey do far more than produce energy",
     "url": "https://www.instagram.com/reel/DXKdfMsD4MX/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/671871661_17865302928655438_639046872629452142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=b8iJMf2dBpcQ7kNvwFBClz_&_nc_oc=Adr_8C_n_d5XgYAyxQ1W-hB3w6srwXfzB85P_rEHa9ED4jlPR-41I8P2O0qnspvo1TIzTxkCCpi5jFhIsAJaqafd&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQEbSrpMlLEAhHgFjiaOIF_jV9ewbS2O_VaafMKdUgVCV0BCDckZ4v6v-tfLcnMYE0ewIo3sFIBJUA&oh=00_Af3aoYRmzNS5lb8AwNO7LCLmCbWW1HzgtX9CS1KxxR7PNA&oe=69F030E9",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/671871661_17865302928655438_639046872629452142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=b8iJMf2dBpcQ7kNvwHCk3Y_&_nc_oc=Adr4du2DOTqG6r16tRkZ3lvG3YesVitEc63rMVeViWuLnNoqJDxUtp99W0oV5m5VfOo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQGw5bjC5SLRNoFOPzZu0Ul-JmmDDhaWGyJlyp_E5hFfp1dnPMNQFQn8tr3p_4mZYQmgA-loarJLig&oh=00_Af1cpNkJ9H6y-c6TzgLn8MbxkwUTcGWsHYnFpcbQPPu5Wg&oe=69F1BAA9",
     "published_at": "2026-04-15T19:07:17Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -951,8 +951,8 @@
       "engagement_rate": 0.038
     },
     "velocity": {
-      "views_per_day": 23.0,
-      "climbing_score": 1.59
+      "views_per_day": 20.25,
+      "climbing_score": 1.36
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -962,7 +962,7 @@
     "id": "18091317620164886",
     "title": "Is your \u201cnormal\u201d blood work telling the whole story?\n\nMany patients come into our clinic with fine cholesterol and normal blood pressure, ye",
     "url": "https://www.instagram.com/reel/DXFX7k_kp_H/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/670329722_17864981259655438_479200414348506455_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=st0ir16FNoIQ7kNvwGKEJ7J&_nc_oc=AdpU153IQniN2Hyw2HqveDnH0Q6Jjltj-DgGriWyCZ_6yQ5MCRicl1yqsLyjwscGWmSOsiOo_NRyWv8fcNDmOTpc&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQE_ZNxdqUOyN7wu6oP1na1a0r9kWPozvHyjZBTIrubnwfemLa1pjdQCn4UZZJ-Z_tMa8wKI4IdWeA&oh=00_Af2mi71B4955HhHSN_NwxdThufvk5sVViFsWyOxMT5BwHQ&oe=69F03743",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/670329722_17864981259655438_479200414348506455_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=st0ir16FNoIQ7kNvwEFRptI&_nc_oc=Adqr_d_pl3BfJM2a7ATrAmNucayfy5QYbWB2tIgJe2FJSuwIDCYCi7_dmzgbxgnz-OA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQG8S239G5FFHA5eeYBtyX870KCytgUZLx7VuzTsHdMB-9KJgJosnWgjWZRIUypBXJWCx-WtTHnMOA&oh=00_Af0oQrOBnZ621NA7l9OsbZkHZGP5mfStA-JtZufbx801hA&oe=69F1C103",
     "published_at": "2026-04-13T19:42:58Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -974,8 +974,8 @@
       "engagement_rate": 0.0303
     },
     "velocity": {
-      "views_per_day": 16.54,
-      "climbing_score": 1.14
+      "views_per_day": 14.92,
+      "climbing_score": 1.0
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -985,7 +985,7 @@
     "id": "18118626466632649",
     "title": "Cerebral atrophy, brain shrinkage, begins earlier than most people realize, often starting in your 40s.\n\nThis is a normal biological process",
     "url": "https://www.instagram.com/reel/DW91Am7krKe/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/662853691_17864472258655438_2223261785283137941_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Ow50pusAYBgQ7kNvwGCS_tj&_nc_oc=AdrO_Uaf5JFX-fOYDE_xWd30T23San88raKJoDrFX2rJUQkzvgXxToQAYqo6icF17en9UVEzsbDjFziCW3aJekjy&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQFhW7m1TXQyyOZnxzqmaA9n-4ifMyL8BPOtcPp4z0UBmxk2rh43MM_6QWbSvmCIEyatOpdSRv92eQ&oh=00_Af2O5ScBETkMYq5Fzr0uLjPKpkayJ7Dd5k_gW_fdTsFwfQ&oe=69F02902",
+    "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/662853691_17864472258655438_2223261785283137941_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=30q-JFCzFIoQ7kNvwE9TxlN&_nc_oc=Adrx_qINTp0hISBh7SmU_iY22b7eO0xAC4RkvQD7SLEBSBUpbpT2pyfv-7NnUx-nFao&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQFiSCmLRjFJut96qys5rlIqPTPsjqvJjHpzslA0er6s0ZbapGTQJ5dv27fXS8jFEaE8ZHzt1Ac_NA&oh=00_Af1X-mo6sG3Kk-QqmjRnSBnj0MqDUubskhqDBJJmehGMfw&oe=69F1B2C2",
     "published_at": "2026-04-10T21:23:34Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -997,8 +997,8 @@
       "engagement_rate": 0.0282
     },
     "velocity": {
-      "views_per_day": 30.22,
-      "climbing_score": 2.09
+      "views_per_day": 27.88,
+      "climbing_score": 1.87
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1008,7 +1008,7 @@
     "id": "18176648317388922",
     "title": "Most people think of spring cleaning as something you do for your home. But it\u2019s also the ideal time to reassess your health.\n\nComing out of",
     "url": "https://www.instagram.com/reel/DWzIuGZD6d4/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/660739562_17863681596655438_1396904165828714003_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=exsj2FgH0aYQ7kNvwF0DQbv&_nc_oc=AdouYYFkR1D9h1wllgrbOA57--h-gpBuQWnyos0y0RSeN2LJtqBRaEaXskuLQmTEiOlAlIQbI2sGMgWFoszf8Y0N&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQFEZRQZavmGp3x0ik2Txe4nVW7tjWfs0nrjQvRcwFUruJ-M_Fdr6Rt0t5Ah-6wLTFGoUrvVCTskzQ&oh=00_Af0--2kNMftS-i5tqt28AVBSZfHVqgHu_6m1_bkJeyntwQ&oe=69F058F4",
+    "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/660739562_17863681596655438_1396904165828714003_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5Yh37E3K3ucQ7kNvwEDkIWS&_nc_oc=Adq3S1ZrYSkGWbpqjMBQrgEAUGeWDY1hJrK9ZnoUgwrzZJyvLwc8OBs0XwLJlbWAGpw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQHqDG_yYlWzEti6_0Bz5RVf8gyJslXBGpXHxyHnBCucogVbxvcAJSAyAbQ6anoMXAGfqiyejVva1Q&oh=00_Af1CGjjFNGjIIQMYfv-AvnqxE4ld466fQSUOBdwcoXmqug&oe=69F1AA74",
     "published_at": "2026-04-06T17:44:39Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -1020,8 +1020,8 @@
       "engagement_rate": 0.0132
     },
     "velocity": {
-      "views_per_day": 8.91,
-      "climbing_score": 0.62
+      "views_per_day": 8.38,
+      "climbing_score": 0.56
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1031,7 +1031,7 @@
     "id": "18081870671367996",
     "title": "Think creatine is just for bodybuilders? Think again \ud83e\uddec It\u2019s one of the most well-researched supplements available, and the benefits go far b",
     "url": "https://www.instagram.com/reel/DWuapnuEkDS/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/658922792_17863336566655438_7247056561240762884_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2RBoI6uAelMQ7kNvwGUdyky&_nc_oc=AdrAxMFLeJRJ7FXSvNPJ_xEXwE9GSHF0wJEuYFf2TlpQdsgXuaKnI6UGwALasAoB5RAsIqs9nMWj6RNY9w39d7Al&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQED0DPUE6vUXrbNPoUd_gD1QWpVdGTLpnFkt-rAOEuDnFouFGtvVpZvbT_6bE-kIQKgVEH8z5wAoQ&oh=00_Af2RJpsIl2d0WDe-8XOdqrhT8z_ouiBZTSqNrrjxaQCfZA&oe=69F0300E",
+    "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/658922792_17863336566655438_7247056561240762884_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2RBoI6uAelMQ7kNvwH7sDNq&_nc_oc=Adrw-VWwAfBFqB2OD8VJZZlBoF__Fj5R0b8ldnAwui8dLJOZHKR-C-meyr4iwJfvVkw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQHmnCMgyGF2abnoXuIt76pGFgRmHV1-ymxzJoZsSozJNctAPawNApdzheLAV6tCtJUL0ctRMfvzsg&oh=00_Af2oVRX2_csXM1Vs3_3SJlUW4GUQX_KgpgbPl_cqLAIGUw&oe=69F1B9CE",
     "published_at": "2026-04-04T21:44:00Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -1043,8 +1043,8 @@
       "engagement_rate": 0.044
     },
     "velocity": {
-      "views_per_day": 14.45,
-      "climbing_score": 1.0
+      "views_per_day": 13.67,
+      "climbing_score": 0.92
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1054,7 +1054,7 @@
     "id": "17909319459363520",
     "title": "If your labs came back \u201cnormal,\u201d that doesn\u2019t always mean low risk.\n\nThere\u2019s a marker called LP(a) that\u2019s often left out of standard testing",
     "url": "https://www.instagram.com/reel/DWmSEvjD026/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/656826748_17862753972655438_4462742794746783542_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=G1yRstQzUjUQ7kNvwGkbE60&_nc_oc=AdrG5BSWHU0vjELRvN9Vjmj6f14NwDCQ7rZYGyiSkc3FPvrBqhP9SrfQKBpb-BvA87g3xcx3rbzLIRcXw-4pmjoO&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQH_7lm6b4g9CkTGS-RGqUZGRNt-9xYi9iTSJzBZw-mu3Yo9ePl77Tj5gdR7xTMpUj34Mi3nJIeXjQ&oh=00_Af1QW432ltsvvszCalQuLyXTNInNkci5X7p-ON0smk9Zog&oe=69F03266",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/656826748_17862753972655438_4462742794746783542_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6duVPNu7uNkQ7kNvwE1-YiW&_nc_oc=Adq-YMPN3-ffDxJooB15Yh5anXSeEM8kG9CSEvstLE_xvyyUOhbc-OHEiMvmgmJeNXY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQF4tDpRohCKAzIOx0yRXxjuNszV7GMxznzpxq36OAIq7TWzRS7QZhMYl6xI4y13o5gKWBv0jy3AMQ&oh=00_Af2jR337N0IKxP31rBXeaCAMvvYDD742vDWLabKb1XbOlg&oe=69F1BC26",
     "published_at": "2026-04-01T17:55:54Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -1066,8 +1066,8 @@
       "engagement_rate": 0.0331
     },
     "velocity": {
-      "views_per_day": 8.21,
-      "climbing_score": 0.57
+      "views_per_day": 7.82,
+      "climbing_score": 0.52
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1077,7 +1077,7 @@
     "id": "18003794336876175",
     "title": "Most annual physicals are designed to detect disease - not prevent it.\n\nDr. Nguyen explains how precision medicine evaluates inflammation, m",
     "url": "https://www.instagram.com/reel/DWkPJG6j8sw/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/657736671_17862582501655438_4914266664884104474_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eBNZlaLu2j8Q7kNvwFEqrtN&_nc_oc=AdpzkGNJB-9GyjYjHCQ_L7yUlWVuegA4WmTqAe3m_i3UMwBZdEJEX440wl5c1W-o9HsCbjqT57lp4dtLDkByD7Fh&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQFvFnV-6uVfCiLcmz3epsL0VijRfaum_QKrteBJ_6RAhm47kf8f2yAd8jy13MP-cMc8D_9K0DE-nw&oh=00_Af2kPrT8ZSblymbPnzgmDg3LPZ1VUQuGAJXrrLsKv6b5rQ&oe=69F03552",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657736671_17862582501655438_4914266664884104474_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=eBNZlaLu2j8Q7kNvwEpdA1l&_nc_oc=Adopq6L9FfcEfp2qxzfc6jx5yu_2eax-cGChXFpzx0GtZ7tF8mAZpmmDSnVY1xkJN2k&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQE0RKR2-i-nNsvl48SouKg-Ev-zJvwhqJGCsmJT1Qf1XFO172fqBe_l6t-jPJnu0C2jXvn0rPSYEg&oh=00_Af1h96uECziSJLd7MbLWwkTfcpzJYHxshnzKpdie4nEJkA&oe=69F1BF12",
     "published_at": "2026-03-31T22:51:34Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -1089,8 +1089,8 @@
       "engagement_rate": 0.0366
     },
     "velocity": {
-      "views_per_day": 7.18,
-      "climbing_score": 0.5
+      "views_per_day": 6.85,
+      "climbing_score": 0.46
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1100,7 +1100,7 @@
     "id": "18077695049618636",
     "title": "Peptides are moving out of the gray market\u2026 and back into medicine.\n\nWith renewed access through licensed compounding pharmacies, physicians",
     "url": "https://www.instagram.com/reel/DWhX-1DkoZ6/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/657708564_17862373113655438_2470001448406140652_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hBuUtgsQddoQ7kNvwHYU6_f&_nc_oc=Adp2FOvT-FT8Nbr0kpwioK8tdwb4lBy_r2QX2B5LUyXV69ml1jDzI98khwdPQgUoBk0i-8_4bBsO746J2D4u4Y07&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQG5DNok5DrC_t3axoUY8RcpdrWaA6sLy-ndDryDE6YB3BnBsgM8lJiZkSD4HtE0EszSPUoVOqtP0g&oh=00_Af3HRQfp1Mup8uu9jLFnQCNGrpzywJv9IQJP-p-c-nvRCQ&oe=69F032D3",
+    "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/657708564_17862373113655438_2470001448406140652_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_Hkbjew7fJoQ7kNvwFSUsPc&_nc_oc=AdqiTlhl7SBJWJ5VdURzDjYFjS1Lkq0MmRgKhMAgUuxgVpRlpLreMyVF1NUGDIVrmGU&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQGwmQXtyroyEoDRHrD8-Hxj31lToLho_RS1_odt7lXMbWSfxiTRohmjr2jC1y1dasPYR_P1MCZV9g&oh=00_Af0qOHewguYUhqXfqxDiE5kM5ihcm-zfXBT7gmPgOEOwBA&oe=69F1BC93",
     "published_at": "2026-03-30T20:10:24Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -1112,8 +1112,8 @@
       "engagement_rate": 0.0526
     },
     "velocity": {
-      "views_per_day": 9.52,
-      "climbing_score": 0.66
+      "views_per_day": 9.1,
+      "climbing_score": 0.61
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1123,7 +1123,7 @@
     "id": "18105109516919839",
     "title": "Muscle isn\u2019t just about strength - it\u2019s one of the most important organs for longevity.\n\nPeople who maintain muscle mass consistently live l",
     "url": "https://www.instagram.com/reel/DWcpp1GD68C/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/655973510_17862021735655438_4058333060499131657_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DhWB08DGjvAQ7kNvwExoFea&_nc_oc=AdpbkYiWcUvF9HDeg1O3S1-mx6FnofCAA4xikMBjc35glQf-MAJwbQABECup1nVVQxhlDMp7p7fQU2lIeMzawbp3&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQFjOTRwf4pYVz3ZIs3HKeeSj2UbtjCklQ-X9yKeWglGG2dw7bzYzPUyH_XzgPX2uw68upwLOWMElg&oh=00_Af2nm1WmKVEZSXTYuHviEjwYYVRZ-a3NmyNMyzehu9AbCQ&oe=69F02C5B",
+    "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/655973510_17862021735655438_4058333060499131657_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DhWB08DGjvAQ7kNvwHeZmYC&_nc_oc=AdpoPZWVaFrAUh1M6JWY0tK6keCwqppBJVMmNodUJmguZZLv_Mp-m-992E9r15rimGo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQF79HtehZNS-wI3MTPojavI509qc3Izi-2OovygdFug-yylWdrGhv_y6GPEDqp8cTt1296ERKTiQw&oh=00_Af38XTjT3ObzVyg2aozGtAwNe97FCqur3p2_DuNr5e23Zw&oe=69F1B61B",
     "published_at": "2026-03-29T00:09:28Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -1135,8 +1135,8 @@
       "engagement_rate": 0.0498
     },
     "velocity": {
-      "views_per_day": 10.9,
-      "climbing_score": 0.75
+      "views_per_day": 10.46,
+      "climbing_score": 0.7
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1146,7 +1146,7 @@
     "id": "17847948738677586",
     "title": "One of the biggest lies about peptides, and this one needs to be debunked.\n\n#peptides #longevitymedicine #longevity #healthandwellnesstips",
     "url": "https://www.instagram.com/reel/DWXNaHIEn1-/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/658859289_17861618640655438_7270837682231031982_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GqB24eGYQp8Q7kNvwF9bLOq&_nc_oc=Adpqhr2tWr7chXU0OaUqod_cYdBIAw9pNFeysl5Clgizc98JlIiVNkGiAmmQCUNTuClld2-HGGhSJqOROHn3cydH&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQFXO701nPnb6XNkLrqPw5ICwg6ml9u3SjPgQ2WcicjUPpsv18e6nHDjyc34e7KoEwO4Y57yt7se_A&oh=00_Af3pRrDw5HKRjM79Cy-vgYYIo9jZvRM3b7W-TfQ2mHZuqQ&oe=69F04129",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658859289_17861618640655438_7270837682231031982_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GqB24eGYQp8Q7kNvwGKLXw2&_nc_oc=AdovTWVyGbuzFN-aENcHcY8CASwCpEs373roqXogrAxlTGkoWUl0JSTGm8nJ3EnfS-w&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQEwCZ0MdwasBvMmQQZw1H8GKNRLhPhLJQaFUweedrlkHWl9ulaE_lY_TNmJ1uTxZqpfpwwnvFryog&oh=00_Af1kFD1MpuDzdKwuETcZUi5q7dPACbJ0kAiCnzjq_S0ZTw&oe=69F192A9",
     "published_at": "2026-03-26T21:26:26Z",
     "content_type": "ig_reel",
     "metrics": {
@@ -1158,8 +1158,8 @@
       "engagement_rate": 0.0619
     },
     "velocity": {
-      "views_per_day": 8.1,
-      "climbing_score": 0.56
+      "views_per_day": 7.8,
+      "climbing_score": 0.52
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1805,7 +1805,7 @@
     "id": "7629064777624603917",
     "title": "Aging isn\u2019t just about time - it\u2019s about energy. At the center of that process are your mitochondria. They do far more than produce energy. ",
     "url": "https://www.tiktok.com/@aesurahealth/video/7629064777624603917?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYGEl4ziIt6IkwvE4fdDfHojInAFAAeAA6PTQy~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=af3a2164&x-expires=1777057200&x-signature=utw8kfhzUR0VfJvJ%2BxeX6MEWV9k%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYGEl4ziIt6IkwvE4fdDfHojInAFAAeAA6PTQy~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=e1a7ea88&x-expires=1777150800&x-signature=Qz2p3uFheUcoYy9XWXhU8maYhaw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
     "published_at": "2026-04-15T19:08:24Z",
     "content_type": "tiktok_video",
     "metrics": {
@@ -1817,8 +1817,8 @@
       "engagement_rate": 0.0353
     },
     "velocity": {
-      "views_per_day": 49.63,
-      "climbing_score": 0.91
+      "views_per_day": 43.7,
+      "climbing_score": 0.83
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1828,7 +1828,7 @@
     "id": "7628331828146933005",
     "title": "Is your \u201cnormal\u201d blood work telling the whole story? Many patients come into our clinic with fine cholesterol and normal blood pressure, yet",
     "url": "https://www.tiktok.com/@aesurahealth/video/7628331828146933005?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocqDJiBOICB5YIAf5diEIOBARADw33AU70vNMD~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=8db090be&x-expires=1777057200&x-signature=ctP4ar%2BUweVfGLc2rYM7ngA9kmQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+    "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ocqDJiBOICB5YIAf5diEIOBARADw33AU70vNMD~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=9d6891d8&x-expires=1777150800&x-signature=mv1mf2esYXXaKwPkLoOKMlZR08s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
     "published_at": "2026-04-13T19:44:00Z",
     "content_type": "tiktok_video",
     "metrics": {
@@ -1840,8 +1840,8 @@
       "engagement_rate": 0.0554
     },
     "velocity": {
-      "views_per_day": 104.87,
-      "climbing_score": 1.92
+      "views_per_day": 94.58,
+      "climbing_score": 1.8
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1851,30 +1851,30 @@
     "id": "7627246686653484302",
     "title": "Cerebral atrophy, brain shrinkage, begins earlier than most people realize, often starting in your 40s. This is a normal biological process.",
     "url": "https://www.tiktok.com/@aesurahealth/video/7627246686653484302?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYL0BZlAiIJizDbAZw6E7qWAIZPXBBA5CfFIIJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=985c6b18&x-expires=1777057200&x-signature=r52xOBY3vsVj087hswk7hl9rwfE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYL0BZlAiIJizDbAZw6E7qWAIZPXBBA5CfFIIJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=75dcaa11&x-expires=1777150800&x-signature=kXluPH3jSKpiIsZ5u59QKSHLt6s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
     "published_at": "2026-04-10T21:33:06Z",
     "content_type": "tiktok_video",
     "metrics": {
-      "views": 9086,
-      "likes": 254,
+      "views": 9266,
+      "likes": 258,
       "comments": 3,
       "saves": null,
       "shares": 52,
-      "engagement_rate": 0.034
+      "engagement_rate": 0.0338
     },
     "velocity": {
-      "views_per_day": 704.44,
-      "climbing_score": 12.87
+      "views_per_day": 662.62,
+      "climbing_score": 12.6
     },
     "is_outlier": true,
-    "outlier_ratio": 10.2
+    "outlier_ratio": 10.4
   },
   "tiktok:7625703857665985805": {
     "platform": "tiktok",
     "id": "7625703857665985805",
     "title": "Most people think of spring cleaning as something you do for your home. But it\u2019s also the ideal time to reassess your health. Coming out of ",
     "url": "https://www.tiktok.com/@aesurahealth/video/7625703857665985805?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ogETIAHAj82pAgDTpFDUfLLloF5IoEAAkefWEz~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=cba9b51d&x-expires=1777057200&x-signature=f7vjpZSXOjT9teY17Frq%2BnV%2B46g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ogETIAHAj82pAgDTpFDUfLLloF5IoEAAkefWEz~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=ea2bbb8b&x-expires=1777150800&x-signature=ZK9HicP7kJVxiVh%2BUoVK%2BQP4z6E%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
     "published_at": "2026-04-06T17:46:18Z",
     "content_type": "tiktok_video",
     "metrics": {
@@ -1886,8 +1886,8 @@
       "engagement_rate": 0.0312
     },
     "velocity": {
-      "views_per_day": 11.26,
-      "climbing_score": 0.21
+      "views_per_day": 10.58,
+      "climbing_score": 0.2
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1897,7 +1897,7 @@
     "id": "7625023321553374494",
     "title": "Think creatine is just for bodybuilders? Think again \ud83e\uddec It\u2019s one of the most well-researched supplements available, and the benefits go far b",
     "url": "https://www.tiktok.com/@aesurahealth/video/7625023321553374494?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEmPEciPAiKx3Z9RiABAIM6xIg0AhBDCAMiqfj~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=63112bbe&x-expires=1777057200&x-signature=YGLwb1fXQu9wmWri1KRdgNvGqFI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEmPEciPAiKx3Z9RiABAIM6xIg0AhBDCAMiqfj~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f109c597&x-expires=1777150800&x-signature=YV%2BtziC9NpsFAGNshRjiWylYjE8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
     "published_at": "2026-04-04T21:45:09Z",
     "content_type": "tiktok_video",
     "metrics": {
@@ -1909,8 +1909,8 @@
       "engagement_rate": 0.0629
     },
     "velocity": {
-      "views_per_day": 47.17,
-      "climbing_score": 0.86
+      "views_per_day": 44.6,
+      "climbing_score": 0.85
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -1920,19 +1920,19 @@
     "id": "7623851245270306078",
     "title": "If your labs came back \u201cnormal,\u201d that doesn\u2019t always mean low risk. There\u2019s a marker called LP(a) that\u2019s often left out of standard testing ",
     "url": "https://www.tiktok.com/@aesurahealth/video/7623851245270306078?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/osAAK9iIEiA03n5fXXiKN1D65G4ICCAPBBqIA6~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=bb4b860d&x-expires=1777057200&x-signature=zGMFyAAi1p0m2%2FmdO73dIlh9Na8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/osAAK9iIEiA03n5fXXiKN1D65G4ICCAPBBqIA6~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=8c89cd7b&x-expires=1777150800&x-signature=OsFZpus8h6y62R2tY8ae%2BOCfZbQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
     "published_at": "2026-04-01T17:57:04Z",
     "content_type": "tiktok_video",
     "metrics": {
-      "views": 595,
-      "likes": 20,
+      "views": 598,
+      "likes": 21,
       "comments": 1,
       "saves": null,
       "shares": 2,
-      "engagement_rate": 0.0387
+      "engagement_rate": 0.0401
     },
     "velocity": {
-      "views_per_day": 26.99,
+      "views_per_day": 25.85,
       "climbing_score": 0.49
     },
     "is_outlier": false,
@@ -1943,19 +1943,19 @@
     "id": "7623556337280077069",
     "title": "Most annual physicals are designed to detect disease - not prevent it. Dr. Nguyen explains how precision medicine evaluates inflammation, me",
     "url": "https://www.tiktok.com/@aesurahealth/video/7623556337280077069?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0kEmueAGKJGfxyuAAAjGpeBI8HLYoITAI4Qrk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=9a44ce78&x-expires=1777057200&x-signature=YXVWAYxwVTzTHhEbXbeSz5eyxgs%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o0kEmueAGKJGfxyuAAAjGpeBI8HLYoITAI4Qrk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f35d579b&x-expires=1777150800&x-signature=7iyV39JbHI9ATmKZFWnAZzBMIwg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
     "published_at": "2026-03-31T22:52:38Z",
     "content_type": "tiktok_video",
     "metrics": {
-      "views": 1250,
+      "views": 1258,
       "likes": 80,
       "comments": 2,
       "saves": null,
       "shares": 2,
-      "engagement_rate": 0.0672
+      "engagement_rate": 0.0668
     },
     "velocity": {
-      "views_per_day": 54.72,
+      "views_per_day": 52.57,
       "climbing_score": 1.0
     },
     "is_outlier": false,
@@ -1966,30 +1966,30 @@
     "id": "7622463359434116365",
     "title": "Muscle isn\u2019t just about strength - it\u2019s one of the most important organs for longevity. People who maintain muscle mass consistently live lo",
     "url": "https://www.tiktok.com/@aesurahealth/video/7622463359434116365?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oE3qCFDIEQGIAVkCNQfwYAfAjA8eTDk1HAPDEY~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4adf2bce&x-expires=1777057200&x-signature=aPfD1o4VBSer%2BKag73kJXGLRwM0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oE3qCFDIEQGIAVkCNQfwYAfAjA8eTDk1HAPDEY~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=62d253f5&x-expires=1777150800&x-signature=DEjeYgcJ3N5727GBQkT5r4eLqNM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
     "published_at": "2026-03-29T00:11:13Z",
     "content_type": "tiktok_video",
     "metrics": {
-      "views": 3202,
-      "likes": 105,
+      "views": 3388,
+      "likes": 112,
       "comments": 0,
       "saves": null,
-      "shares": 32,
-      "engagement_rate": 0.0428
+      "shares": 35,
+      "engagement_rate": 0.0434
     },
     "velocity": {
-      "views_per_day": 124.16,
-      "climbing_score": 2.27
+      "views_per_day": 126.07,
+      "climbing_score": 2.4
     },
     "is_outlier": true,
-    "outlier_ratio": 3.6
+    "outlier_ratio": 3.8
   },
   "tiktok:7621679035164183821": {
     "platform": "tiktok",
     "id": "7621679035164183821",
     "title": "One of the biggest lies about p3ptides, and this one needs to be debunked. #longevitymedicine #longevity #healthandwellnesstips ",
     "url": "https://www.tiktok.com/@aesurahealth/video/7621679035164183821?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oUfEL8cTHDpiTkEF6vFDAlIEjAn8AdffIAETA0~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=e4a45ae5&x-expires=1777057200&x-signature=hbfUNSqhhae2zevaIQW%2FMlBwr8c%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oUfEL8cTHDpiTkEF6vFDAlIEjAn8AdffIAETA0~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=829d9817&x-expires=1777150800&x-signature=qg6HZQtF2LjJHvC6c1%2FUpwcCAr0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
     "published_at": "2026-03-26T21:27:29Z",
     "content_type": "tiktok_video",
     "metrics": {
@@ -2001,7 +2001,7 @@
       "engagement_rate": 0.0743
     },
     "velocity": {
-      "views_per_day": 38.6,
+      "views_per_day": 37.15,
       "climbing_score": 0.71
     },
     "is_outlier": false,
@@ -3322,16 +3322,16 @@
     "published_at": "2026-04-20T19:56:15Z",
     "content_type": "youtube_short",
     "metrics": {
-      "views": 1122,
-      "likes": 28,
+      "views": 1135,
+      "likes": 29,
       "comments": 0,
       "saves": null,
       "shares": null,
-      "engagement_rate": 0.025
+      "engagement_rate": 0.0256
     },
     "velocity": {
-      "views_per_day": 378.36,
-      "climbing_score": 13.29
+      "views_per_day": 280.17,
+      "climbing_score": 6.18
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -3341,20 +3341,20 @@
     "id": "17926598112267556",
     "title": "Biohacking is having a moment.\n\nCold plunges. Red light therapy. Peptides.\n\nSome of these tools have value in specific contexts. But they ar",
     "url": "https://www.instagram.com/reel/DXXebZ_EphU/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/670638529_17866190523655438_6375425420020357112_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=meRvLF-zSJoQ7kNvwEZus0V&_nc_oc=AdrC54cwW5oXtYyUbBIFjKJHgHIjflc9AxEBkcxRjqflCxWqPFmoPDBJHasklvM1tlaHPO6xMO1PrX53llrbCQME&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQG6m8x6YlWxHQMoSATvb7OXPjGs0lQ-sU0_8WuXca4H3WFcBHp4sK2GTb_ucn6m9xquhGGU_JcQtg&oh=00_Af0BChWsVM0H-UIN54QtmJK9KfNmNygqHoRfy979MVghOw&oe=69F02A63",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/670638529_17866190523655438_6375425420020357112_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=meRvLF-zSJoQ7kNvwHcK8QF&_nc_oc=Adr7OhNureH82anXc4dAELLHAGjj4b_VHB7iofT0xMG4SlSiActDUhFE1pNVLX_B_Ls&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQGwoJoU3BQhS15d7SMl72FqU_LtcCGNaxbbkSp8UAEz5Ou0f6ByHrpV47SUMf7yaBhqS86llu1AOg&oh=00_Af0Zn_WJdpJ1E0KUY0uAKZc7VbJI3jieBXuaHxQ4hp3HRQ&oe=69F1B423",
     "published_at": "2026-04-20T20:27:05Z",
     "content_type": "ig_reel",
     "metrics": {
-      "views": 201,
+      "views": 206,
       "likes": 8,
       "comments": 0,
       "saves": 1,
       "shares": 0,
-      "engagement_rate": 0.0448
+      "engagement_rate": 0.0437
     },
     "velocity": {
-      "views_per_day": 68.27,
-      "climbing_score": 4.72
+      "views_per_day": 51.12,
+      "climbing_score": 3.43
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -3364,20 +3364,20 @@
     "id": "7630940960297454879",
     "title": "Biohacking is having a moment. Cold plunges. Red light therapy. Peptides. \u2028Some of these tools have value in specific contexts. But they are",
     "url": "https://www.tiktok.com/@aesurahealth/video/7630940960297454879?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oUDExHDWFAr15jm2ARL2ACiE1qeEIVAfApoLxE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=8ebefa16&x-expires=1777057200&x-signature=e8wagGbP9rfWVOVosHeAHsxEOYY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oUDExHDWFAr15jm2ARL2ACiE1qeEIVAfApoLxE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=232e2004&x-expires=1777150800&x-signature=8hCTA07zY8qQzislLt7ETwLJR7c%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
     "published_at": "2026-04-20T20:28:38Z",
     "content_type": "tiktok_video",
     "metrics": {
-      "views": 311,
-      "likes": 4,
+      "views": 313,
+      "likes": 5,
       "comments": 0,
       "saves": null,
       "shares": 0,
-      "engagement_rate": 0.0129
+      "engagement_rate": 0.016
     },
     "velocity": {
-      "views_per_day": 105.68,
-      "climbing_score": 1.93
+      "views_per_day": 77.69,
+      "climbing_score": 1.48
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -3387,20 +3387,20 @@
     "id": "qZZEFgB39y4",
     "title": "My week spans two very different ends of #medicine. #doctorlife",
     "url": "https://www.youtube.com/watch?v=qZZEFgB39y4",
-    "thumbnail": "https://i9.ytimg.com/vi/qZZEFgB39y4/hqdefault.jpg?sqp=CNzaqc8G&rs=AOn4CLB6GhI9qHn5kMTSNDJKIvfSs0asfw",
-    "published_at": "2026-04-22T21:15:25Z",
+    "thumbnail": "https://i.ytimg.com/vi/qZZEFgB39y4/hqdefault.jpg",
+    "published_at": "2026-04-24T12:01:29Z",
     "content_type": "youtube_short",
     "metrics": {
-      "views": 0,
-      "likes": 0,
+      "views": 787,
+      "likes": 21,
       "comments": 0,
       "saves": null,
       "shares": null,
-      "engagement_rate": null
+      "engagement_rate": 0.0267
     },
     "velocity": {
-      "views_per_day": 0.0,
-      "climbing_score": 0.0
+      "views_per_day": 1574.0,
+      "climbing_score": 34.71
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -3414,7 +3414,7 @@
     "published_at": "2026-04-22T18:16:54Z",
     "content_type": "youtube_short",
     "metrics": {
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "saves": null,
@@ -3422,8 +3422,8 @@
       "engagement_rate": 0.0
     },
     "velocity": {
-      "views_per_day": 1.93,
-      "climbing_score": 0.07
+      "views_per_day": 1.41,
+      "climbing_score": 0.03
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -3433,20 +3433,20 @@
     "id": "17857878048688308",
     "title": "NAD is everywhere right now, but how it\u2019s delivered matters.\n\nWhen you take NAD, NR, or NMN orally, much of it is broken down during digesti",
     "url": "https://www.instagram.com/reel/DXcX8GFD7hX/",
-    "thumbnail": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/670775230_17866533000655438_4018272713416273130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=euMHlKTUmIcQ7kNvwGxqt-K&_nc_oc=Adr_2CqvqNK-urZHbJNxlAy5DIdggoZPuaH5f28VHbNAzartnxrU1AxrWsB1Q6dgc27UvCDPtu26fhwJuLgEl1u6&_nc_zt=23&_nc_ht=scontent-phl2-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=4Q1LxemY7z4l9gfKzy9XxA&_nc_tpa=Q5bMBQF87DMyPtOfxl_FxNklxH3xz6tBr9Gnxvrb8hD7M76UJWbnXrY1Uisdxt9TE6ZnuMLNcJBy1Y-APg&oh=00_Af0neB7yDQux740QuD2aPWhot8vJ_o073Pd8GWvsbQeyfw&oe=69F02B99",
+    "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/670775230_17866533000655438_4018272713416273130_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=euMHlKTUmIcQ7kNvwF_KFW8&_nc_oc=AdrjUh70Mk4H-f7Uki2A91-iRuyZLnxN0Tjh1RkxsjuFaYICIvx48nwROXEKVEoPhoM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQEeheVrErZ6D7ePoFq6fH_rNO-Qs2YSownStTmaFmyazIWOlTqYVCU-0RXYzNDSA0WTtq5FRe0Lew&oh=00_Af21LguYHdoecNQs3asp2xckIW5HYFMMZkWjBrNNTYqK0g&oe=69F1B559",
     "published_at": "2026-04-22T18:06:15Z",
     "content_type": "ig_reel",
     "metrics": {
-      "views": 158,
-      "likes": 6,
+      "views": 163,
+      "likes": 7,
       "comments": 0,
       "saves": 0,
       "shares": 0,
-      "engagement_rate": 0.038
+      "engagement_rate": 0.0429
     },
     "velocity": {
-      "views_per_day": 151.65,
-      "climbing_score": 10.49
+      "views_per_day": 76.61,
+      "climbing_score": 5.13
     },
     "is_outlier": false,
     "outlier_ratio": null
@@ -3456,20 +3456,43 @@
     "id": "7631646574640221454",
     "title": "NAD is everywhere right now, but how it\u2019s delivered matters. When you take NAD, NR, or NMN orally, much of it is broken down during digestio",
     "url": "https://www.tiktok.com/@aesurahealth/video/7631646574640221454?utm_campaign=tt4d_open_api&utm_source=sbaw29ddyl3ftc0gux",
-    "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oQIISLTJhEAkHZGeQex9AkAAIVHj80CPfHyAjI~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=9e44cf38&x-expires=1777057200&x-signature=8dyON539SgIDjILy2sogUD1AHLw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+    "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oQIISLTJhEAkHZGeQex9AkAAIVHj80CPfHyAjI~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=b7b16c4e&x-expires=1777150800&x-signature=qRWbH%2BiR%2BgnzwlmWfvNReL6XXxA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
     "published_at": "2026-04-22T18:07:05Z",
     "content_type": "tiktok_video",
     "metrics": {
-      "views": 165,
+      "views": 169,
       "likes": 2,
       "comments": 0,
       "saves": null,
       "shares": 0,
-      "engagement_rate": 0.0121
+      "engagement_rate": 0.0118
     },
     "velocity": {
-      "views_per_day": 158.46,
-      "climbing_score": 2.9
+      "views_per_day": 79.46,
+      "climbing_score": 1.51
+    },
+    "is_outlier": false,
+    "outlier_ratio": null
+  },
+  "instagram:18107137333810012": {
+    "platform": "instagram",
+    "id": "18107137333810012",
+    "title": "My week spans two very different ends of medicine.\n\nOn one side - 24-hour shifts in a military hospital, caring for active-duty soldiers who",
+    "url": "https://www.instagram.com/reel/DXg-tx7y28-/",
+    "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/673880116_17866549854655438_2988452151871584431_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nIv6IHrGyVYQ7kNvwHOgX7E&_nc_oc=AdpJviNQJrA42x6rfvj2_SE5yhTvShJc70lvyYhypNC4qehLpr6hx16nU714FvM47A0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aij9L1LIvwZK4-T8H_VL1Q&_nc_tpa=Q5bMBQFUL8GeVVYqIb-SJBcbs6Y5ATvN5_oTZysTKgROGCXmEHw8ftnxb6hJr0REswczXQrqVcMX4uyl_g&oh=00_Af3I7fq7RFZEIWmK5CZOUTMWczcfmeBRrPKKa_lFpDWuag&oe=69F1A510",
+    "published_at": "2026-04-24T13:00:00Z",
+    "content_type": "ig_reel",
+    "metrics": {
+      "views": 56,
+      "likes": 10,
+      "comments": 2,
+      "saves": 0,
+      "shares": 0,
+      "engagement_rate": 0.2143
+    },
+    "velocity": {
+      "views_per_day": 112.0,
+      "climbing_score": 7.51
     },
     "is_outlier": false,
     "outlier_ratio": null
