@@ -24,7 +24,7 @@ import traceback
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from fetch import gsc, instagram, tiktok, trends, youtube
+from fetch import gbp, gsc, instagram, tiktok, trends, youtube
 from fetch.utils import iso_utc
 from fetch.trends import TREATMENTS
 
@@ -526,6 +526,7 @@ def build() -> dict:
         "gsc":       _safe("gsc",       lambda: gsc.fetch(WINDOW_DAYS)),
         "instagram": _safe("instagram", lambda: instagram.fetch(WINDOW_DAYS)),
         "tiktok":    _safe("tiktok",    lambda: tiktok.fetch(WINDOW_DAYS)),
+        "gbp":       _safe("gbp",       lambda: gbp.fetch(WINDOW_DAYS)),
     }
 
     all_posts: list[dict] = []

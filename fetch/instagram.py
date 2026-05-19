@@ -14,7 +14,7 @@ from .utils import Post, PostMetrics, PostVelocity, days_since, engagement_rate
 
 BASE = Path(__file__).resolve().parent.parent
 CREDS_FILE = BASE / "credentials" / "instagram-credentials.json"
-GRAPH = "https://graph.facebook.com/v19.0"
+GRAPH = "https://graph.facebook.com/v22.0"
 
 
 def _load_creds() -> dict:

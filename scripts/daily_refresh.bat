@@ -13,11 +13,18 @@ cd /d "C:\Users\nn214\OneDrive\Desktop\Claude\Aesura Dashboard"
 echo === Aesura Dashboard refresh — %DATE% %TIME% ===
 
 echo.
-echo [1/2] Running build_data.py (this takes 2-5 minutes)...
+echo [1/3] Checking Instagram token health...
+python scripts\check_token_health.py
+if errorlevel 1 (
+  echo WARNING: IG token health check failed. See data\token_health.json for details.
+)
+
+echo.
+echo [2/3] Running build_data.py (this takes 2-5 minutes)...
 python build_data.py
 
 echo.
-echo [2/2] Pushing changes to GitHub...
+echo [3/3] Pushing changes to GitHub...
 git add -A
 git commit -m "Daily dashboard refresh" 2>nul
 git push origin main

@@ -82,7 +82,7 @@ def main() -> int:
 
     if picked:
         LOCATION_FILE.write_text(picked["name"] + "\n")
-        print(f"\n✅ Auto-detected Aesura location. Saved to {LOCATION_FILE}")
+        print(f"\n[OK] Auto-detected Aesura location. Saved to {LOCATION_FILE}")
         print(f"   {picked['name']}  ({picked.get('title')})")
         return 0
 
