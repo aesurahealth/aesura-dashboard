@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-20T14:03:31Z",
+  "checked_at": "2026-05-21T22:22:11Z",
   "page_token_status": "healthy",
   "ig_endpoint_test": "ok",
   "ig_followers": 89,
@@ -54,6 +54,6 @@
     ],
     "user_id": "10109043323079852"
   },
-  "next_check_due": "2026-06-19T14:03:31Z",
+  "next_check_due": "2026-06-20T22:22:11Z",
   "alert_message": ""
 }
